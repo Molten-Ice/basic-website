@@ -1,17 +1,16 @@
 # Site settings
 name: James Davey
-description: "Nifty little description"
+description: "Deep learning enthusiast"
 url: "https://Molten-Ice.github.io"
 
 
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username:  Molten-Ice
-linkedin_username: james-davey-0aa996197
-instagram_username:  james.davey3
 medium_username:  jamsdavy123
 lastfm_username: jamsdavy123
-email: jamsdavy123@gmail.com
+linkedin_username: james-davey-0aa996197
+instagram_username:  james.davey3
 
 
 avatar: yes
